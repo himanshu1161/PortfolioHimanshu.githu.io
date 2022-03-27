@@ -1,0 +1,49 @@
+@media screen and (max-width:800px){
+    body{
+    
+    }
+    .logo{
+        font-size: 12px;
+    }
+    .li1{
+        margin-left: 71px;
+    }
+    h4{
+        font-size: 12px;
+    }
+    h2{
+        font-size: 15px;
+    }
+    h3{
+        font-size: 14px;
+    }
+    .btn{
+        font-size: 10px;
+    }
+    .img1{
+        left: 47%;
+top: 26%;
+    }
+    .img3{
+        width: 100%;
+    }
+    .h21{ text-align: initial;
+        font-size: 30px;
+            margin-left: 83px;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .card{
+        width: 240px;
+    }
+    .skills{
+        overflow: hidden;
+    }
+    .sk1 p{
+        margin-bottom: 8px;
+    }
+    .footer{
+        overflow: hidden;
+    }
+}
